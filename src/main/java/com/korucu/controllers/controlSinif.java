@@ -15,6 +15,12 @@ public class controlSinif {
 		
 	}
 	
-	
+	@RequestMapping("/jspSayfasi")
+	public ModelAndView  ilkmvc () {
+		
+		
+		
+		return model;
+	}
 	
 }
