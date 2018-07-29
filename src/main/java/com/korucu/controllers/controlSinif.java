@@ -11,7 +11,7 @@ public class controlSinif {
 	@ResponseBody
 	public String anasayfa () {
 		
-		return "AnaSayfaya Git ===>";
+		return "AnaSayfaya Geldi ===>";
 		
 	}
 	
